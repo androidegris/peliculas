@@ -1,6 +1,6 @@
 # peliculas
 
-Repositorio de imágenes de peliculas para la web y aplicación mispeliculas
+Repositorio de imágenes de películas para la web y aplicación mispeliculas
 
 https://mispeliculas.herokuapp.com/
 
